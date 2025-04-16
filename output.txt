@@ -1,0 +1,600 @@
+Sending request 1
+Inside Nginx Lua script: Processing Order... Request from: 1
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 2
+Inside Nginx Lua script: Processing Order... Request from: 2
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 3
+Inside Nginx Lua script: Processing Order... Request from: 3
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 4
+Inside Nginx Lua script: Processing Order... Request from: 4
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 5
+Inside Nginx Lua script: Processing Order... Request from: 5
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 6
+Inside Nginx Lua script: Processing Order... Request from: 6
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 7
+Inside Nginx Lua script: Processing Order... Request from: 7
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 8
+Inside Nginx Lua script: Processing Order... Request from: 8
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 9
+Inside Nginx Lua script: Processing Order... Request from: 9
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 10
+Inside Nginx Lua script: Processing Order... Request from: 10
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 11
+Inside Nginx Lua script: Processing Order... Request from: 11
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 12
+Inside Nginx Lua script: Processing Order... Request from: 12
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 13
+Inside Nginx Lua script: Processing Order... Request from: 13
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 14
+Inside Nginx Lua script: Processing Order... Request from: 14
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 15
+Inside Nginx Lua script: Processing Order... Request from: 15
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 16
+Inside Nginx Lua script: Processing Order... Request from: 16
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 17
+Inside Nginx Lua script: Processing Order... Request from: 17
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 18
+Inside Nginx Lua script: Processing Order... Request from: 18
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 19
+Inside Nginx Lua script: Processing Order... Request from: 19
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 20
+Inside Nginx Lua script: Processing Order... Request from: 20
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 21
+Inside Nginx Lua script: Processing Order... Request from: 21
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 22
+Inside Nginx Lua script: Processing Order... Request from: 22
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 23
+Inside Nginx Lua script: Processing Order... Request from: 23
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 24
+Inside Nginx Lua script: Processing Order... Request from: 24
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 25
+Inside Nginx Lua script: Processing Order... Request from: 25
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 26
+Inside Nginx Lua script: Processing Order... Request from: 26
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 27
+Inside Nginx Lua script: Processing Order... Request from: 27
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 28
+Inside Nginx Lua script: Processing Order... Request from: 28
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 29
+Inside Nginx Lua script: Processing Order... Request from: 29
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 30
+Inside Nginx Lua script: Processing Order... Request from: 30
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 31
+Inside Nginx Lua script: Processing Order... Request from: 31
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 32
+Inside Nginx Lua script: Processing Order... Request from: 32
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 33
+Inside Nginx Lua script: Processing Order... Request from: 33
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 34
+Inside Nginx Lua script: Processing Order... Request from: 34
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 35
+Inside Nginx Lua script: Processing Order... Request from: 35
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 36
+Inside Nginx Lua script: Processing Order... Request from: 36
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 37
+Inside Nginx Lua script: Processing Order... Request from: 37
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 38
+Inside Nginx Lua script: Processing Order... Request from: 38
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 39
+Inside Nginx Lua script: Processing Order... Request from: 39
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 40
+Inside Nginx Lua script: Processing Order... Request from: 40
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 41
+Inside Nginx Lua script: Processing Order... Request from: 41
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 42
+Inside Nginx Lua script: Processing Order... Request from: 42
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 43
+Inside Nginx Lua script: Processing Order... Request from: 43
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 44
+Inside Nginx Lua script: Processing Order... Request from: 44
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 45
+Inside Nginx Lua script: Processing Order... Request from: 45
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 46
+Inside Nginx Lua script: Processing Order... Request from: 46
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 47
+Inside Nginx Lua script: Processing Order... Request from: 47
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 48
+Inside Nginx Lua script: Processing Order... Request from: 48
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 49
+Inside Nginx Lua script: Processing Order... Request from: 49
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 50
+Inside Nginx Lua script: Processing Order... Request from: 50
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 51
+Inside Nginx Lua script: Processing Order... Request from: 51
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 52
+Inside Nginx Lua script: Processing Order... Request from: 52
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 53
+Inside Nginx Lua script: Processing Order... Request from: 53
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 54
+Inside Nginx Lua script: Processing Order... Request from: 54
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 55
+Inside Nginx Lua script: Processing Order... Request from: 55
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 56
+Inside Nginx Lua script: Processing Order... Request from: 56
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 57
+Inside Nginx Lua script: Processing Order... Request from: 57
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 58
+Inside Nginx Lua script: Processing Order... Request from: 58
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 59
+Inside Nginx Lua script: Processing Order... Request from: 59
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 60
+Inside Nginx Lua script: Processing Order... Request from: 60
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 61
+Inside Nginx Lua script: Processing Order... Request from: 61
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 62
+Inside Nginx Lua script: Processing Order... Request from: 62
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 63
+Inside Nginx Lua script: Processing Order... Request from: 63
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 64
+Inside Nginx Lua script: Processing Order... Request from: 64
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 65
+Inside Nginx Lua script: Processing Order... Request from: 65
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 66
+Inside Nginx Lua script: Processing Order... Request from: 66
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 67
+Inside Nginx Lua script: Processing Order... Request from: 67
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 68
+Inside Nginx Lua script: Processing Order... Request from: 68
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 69
+Inside Nginx Lua script: Processing Order... Request from: 69
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 70
+Inside Nginx Lua script: Processing Order... Request from: 70
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 71
+Inside Nginx Lua script: Processing Order... Request from: 71
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 72
+Inside Nginx Lua script: Processing Order... Request from: 72
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 73
+Inside Nginx Lua script: Processing Order... Request from: 73
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 74
+Inside Nginx Lua script: Processing Order... Request from: 74
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 75
+Inside Nginx Lua script: Processing Order... Request from: 75
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 76
+Inside Nginx Lua script: Processing Order... Request from: 76
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 77
+Inside Nginx Lua script: Processing Order... Request from: 77
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 78
+Inside Nginx Lua script: Processing Order... Request from: 78
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 79
+Inside Nginx Lua script: Processing Order... Request from: 79
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 80
+Inside Nginx Lua script: Processing Order... Request from: 80
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 81
+Inside Nginx Lua script: Processing Order... Request from: 81
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 82
+Inside Nginx Lua script: Processing Order... Request from: 82
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 83
+Inside Nginx Lua script: Processing Order... Request from: 83
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 84
+Inside Nginx Lua script: Processing Order... Request from: 84
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 85
+Inside Nginx Lua script: Processing Order... Request from: 85
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 86
+Inside Nginx Lua script: Processing Order... Request from: 86
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 87
+Inside Nginx Lua script: Processing Order... Request from: 87
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 88
+Inside Nginx Lua script: Processing Order... Request from: 88
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 89
+Inside Nginx Lua script: Processing Order... Request from: 89
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 90
+Inside Nginx Lua script: Processing Order... Request from: 90
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 91
+Inside Nginx Lua script: Processing Order... Request from: 91
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 92
+Inside Nginx Lua script: Processing Order... Request from: 92
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 93
+Inside Nginx Lua script: Processing Order... Request from: 93
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 94
+Inside Nginx Lua script: Processing Order... Request from: 94
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 95
+Inside Nginx Lua script: Processing Order... Request from: 95
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 96
+Inside Nginx Lua script: Processing Order... Request from: 96
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 97
+Inside Nginx Lua script: Processing Order... Request from: 97
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 98
+Inside Nginx Lua script: Processing Order... Request from: 98
+Status: true
+Beverage Type: Cold beverage
+
+
+Sending request 99
+Inside Nginx Lua script: Processing Order... Request from: 99
+Status: true
+Beverage Type: Hot beverage
+
+
+Sending request 100
+Inside Nginx Lua script: Processing Order... Request from: 100
+Status: true
+Beverage Type: Cold beverage
+
+
